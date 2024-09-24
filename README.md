@@ -1,4 +1,4 @@
-Java ATM Simulator
+# Java ATM Simulator
 
 This program simulates a basic ATM functionality for the State Bank of India (SBI). Users can enter a PIN, check their balance, withdraw or deposit money, and print a receipt for their transactions.
 
